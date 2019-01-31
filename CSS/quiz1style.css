@@ -1,0 +1,41 @@
+body	{
+	background-color:#0B424D;
+	font-size: 22px;
+}
+p	{
+	color: white;
+}
+h1	{
+	font-size: 40px;
+	color: white;
+	border-bottom-style: solid;
+	border-bottom-color: white;
+	border-bottom-width: 4px;
+	text-align: center;
+}
+h2	{
+	font-size: 32px;
+	color: #BDC3C7;
+	text-align: center;
+}
+h3	{
+	font-size: 28px;
+	color: #ECF0F1;
+}
+.border 	{
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+}
+.center 	{
+	text-align: center;
+}
+.red	{
+	color: red;
+}
+.link	{
+	background-color:#16839A;
+}
+.list	{
+	font-size: 26px;
+}

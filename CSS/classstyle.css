@@ -1,0 +1,19 @@
+h1	{
+	color:magenta;
+	text-decoration: underline;
+}
+
+body	{
+	background-color: yellow;
+	font-family: sans-serif;
+}
+li 		{
+	color: blue;
+	font-size: 18px;
+}
+.first	{
+	color:green;
+}
+.bfont	{
+	font-size: 50px;
+}

@@ -1,0 +1,59 @@
+h1	{
+	color:#06B0C4;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-decoration:underline;
+}
+h4	{
+	color:#033B6A;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+p	{
+	color:#033B6A;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h2	{
+	color:#06B0C4;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+img	{
+	width: 300px;
+	border: 20px;
+	border-color: #6CD7EC;
+	border-style: dashed;
+}
+body {
+	background-color:#F7DEFE;
+}
+.magenta	{
+	color:magenta;
+}
+.blue	{
+	color:blue;
+}
+.orange	{
+	color:orange;
+}
+.yellow	{
+	color:#CEC015;
+}
+.green	{
+	color:green;
+}
+.red	{
+	color:red;
+}
+.purple	{
+	color:purple;
+}
+.lgreen	{
+	color:#55FF00;
+}
+.grey	{
+	color:grey;
+}
+.ufont	{
+	text-decoration:underline;
+}
+.ifont	{
+	font-style:italic;
+}
