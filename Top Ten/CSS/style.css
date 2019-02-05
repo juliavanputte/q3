@@ -57,3 +57,16 @@ body {
 .ifont	{
 	font-style:italic;
 }
+a:link {
+  color: #4688E1       ;
+  font-family: serif;
+}
+a:visited {
+  color: #E14646      ;
+}
+a:hover {
+  color: #3E8A6A        ;
+  text-decoration: bold;
+}
+a:active {
+  color: #FF9F01      ;

@@ -45,8 +45,17 @@ h4	{
 	text-decoration: underline #F1978E;
 	color: #F1978E;
 }
-a 	{
-	color:#F1978E;
+a:link {
+  color: #B900FF   ;
+}
+a:visited {
+  color: #CDC2FE  ;
+}
+a:hover {
+  color: #FF3600    ;
+}
+a:active {
+  color: #FF3600    ;
 }
 .section1	{
 	background-color: #0A0261;
@@ -57,4 +66,7 @@ a 	{
 }
 img	{
 	border: solid 10px #C0D5FA;
+}
+.smaller	{
+	font-size: 25px;
 }
