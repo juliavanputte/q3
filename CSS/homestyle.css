@@ -6,15 +6,13 @@
 }
 h1	{
 	font-size: 50px;
-	text-decoration: underline;
 
 }
 h2	{
 	font-size: 40px;
-	color: #A3ADBA ;
 }
 body	{
-	background-color:#50555D           ;
+	background-color:#0A0261  ;
 	font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
 	text-align: center;
 }
@@ -30,8 +28,6 @@ body	{
 	padding: 20px;
 	border-bottom: double 15px #F1978E;
 	border-top: double 15px #F1978E;
-	border-right: solid 10px #A3ADBA  ;
-	border-left: solid 10px #A3ADBA  ;
 	margin: 10px;
 	text-align: center;
 	color: #C0D5FA;
@@ -42,7 +38,6 @@ body	{
 	font-size: 20px;
 	text-align: center;
 	margin: 20px auto;
-	color: #50555D       ;
 }
 h4	{
 	font-size: 35px;
@@ -51,16 +46,16 @@ h4	{
 	color: #F1978E;
 }
 a:link {
-  color: #E1BAFF     ;
+  color: #B900FF   ;
 }
 a:visited {
-  color: #BAD9FF      ;
+  color: #6EACEA    ;
 }
 a:hover {
-  color:#BAFFBB        ;
+  color: #6EEA79      ;
 }
 a:active {
-  color: #FFFF69      ;
+  color: #FF3600    ;
 }
 .section1	{
 	background-color: #0A0261;
@@ -72,23 +67,6 @@ a:active {
 img	{
 	border: solid 10px #C0D5FA;
 }
-a 	{
+.smaller	{
 	font-size: 25px;
-	text-align: center;
-	border: 5px  #F1978E solid;
-	padding: 5px;
-	margin: 20px auto;
-	background-color:#50555D         ;
-	display: block;
-	color: #C0D5FA;
-	width: 20%;
-}
-nav	{
-	width: 60%;
-	margin: 20px auto;
-	background-color: #0A0261;
-	padding-right: 10px;
-	padding-left: 10px;
-	padding-bottom: 10px;
-	border: solid 10px #A3ADBA  ;
 }
