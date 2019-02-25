@@ -22,7 +22,7 @@ img	{
 	border-style: dashed;
 }
 body {
-	background-color:#F7DEFE;
+	background-color:#BBBBBB  ;
 }
 .magenta	{
 	color:magenta;
@@ -57,7 +57,7 @@ body {
 .ifont	{
 	font-style:italic;
 }
-a 	{
+.link 	{
 	font-size: 25px;
 	text-align: center;
 	border: 5px  #F1978E solid;
@@ -102,4 +102,8 @@ a:hover {
 a:active {
   color: #FFFF69      ;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+a 	{
+	text-decoration: underline;
+	font-size: 25px;
 }
